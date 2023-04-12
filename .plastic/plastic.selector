@@ -1,0 +1,4 @@
+repository "minigame@minigame-17e9a398-7132-4065-83ff-664da853b58b@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
